@@ -1,2 +1,2 @@
 # cf
-nnn
+Collection of codeforces answers
